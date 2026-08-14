@@ -4,5 +4,6 @@ __pycache__/
 .env
 data/
 results/
+miscellaneous/
 *.pyc
 .DS_Store
