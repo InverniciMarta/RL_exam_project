@@ -48,6 +48,20 @@ The notebook can save:
 
 Results are saved to `RL_AO_results/` when running locally, or to `MyDrive/RL_AO/` when using Google Colab with Google Drive.
 
+## References
+
+1. E. H. Por et al., *High Contrast Imaging for Python (HCIPy): an open-source adaptive optics and coronagraph simulator*. Adaptive Optics Systems VI, 2018. [DOI: 10.1117/12.2314407](https://doi.org/10.1117/12.2314407).
+
+2. T. Haarnoja et al., *Soft Actor-Critic Algorithms and Applications*. arXiv:1812.05905v2, 2019. [arXiv](https://arxiv.org/abs/1812.05905).
+
+3. B. Pou et al., *Model-free Reinforcement Learning with a Non-linear Reconstructor for closed-loop Adaptive Optics control with a pyramid wavefront sensor*. Proceedings of SPIE 12185, 2022.
+
+4. B. Pou et al., *Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics*. Optics Express 32, 37011–37035, 2024.
+
+5. B. Pou, J. Smith, E. Quinones, et al., *Implementation of integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics*. GitHub, 2024. [Repository](https://github.com/Tomeu7/Integrating-SL-and-RL-for-AO).
+
+6. R. Sutton and A. Barto, *Reinforcement Learning: An Introduction*. MIT Press, 2018.
+
 ## Use of ChatGPT
 
 **ChatGPT was used as a development support tool** for:
