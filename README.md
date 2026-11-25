@@ -4,6 +4,8 @@ This project explores the use of **Soft Actor-Critic (SAC)** to improve the cont
 
 The simulation is built with HCIPy. A reinforcement learning controller adds corrections to a classical integrator, and the two approaches are compared using the **long-exposure Strehl ratio**.
 
+Results showcased at the end of the notebook are obtained from the policy saved after 100 training iterations. To run test phase only, set --training to "store_true". 
+
 ## Project structure
 
 ```text
