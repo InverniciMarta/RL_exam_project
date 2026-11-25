@@ -23,17 +23,11 @@ project/
 
 ## Requirements
 
-- Python and Jupyter Notebook (or Google Colab)
-- `numpy`, `scipy`, `pandas`, `matplotlib`
-- `torch`, `hcipy`, `xxhash`, `tqdm`, `imageio-ffmpeg`
-
 Install the required packages in your Python environment before running the notebook.
 
-## How to run
+## Parameters
 
-1. Open the project notebook (`.ipynb` file) in Jupyter or Google Colab.
-2. Adjust the simulation and training parameters in the `create_args()` cell if needed.
-3. Run the cells in order.
+Adjust the simulation and training parameters in the `create_args()` cell if needed.
 
 By default, the notebook trains the SAC agent and compares it with the classical controller. The main settings include the number of training episodes, the number of test repetitions, logging, video recording, and checkpointing.
 
